@@ -1,3 +1,10 @@
+HF-MODEL
+constants/
+emb.weight
+traced_model.ts
+rwkv_model.onnx
+
+
 test/
 bak/
 
